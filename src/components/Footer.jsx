@@ -50,7 +50,7 @@ const Footer = () => {
       </div>
 
       {/* Bottom bar */}
-      <div className="bg-lime-800 text-white">
+      <div className="bg-lime-700 text-white">
         <div className="flex max-w-7xl mx-auto justify-between px-6 py-4">
         <p>© Bản quyền thuộc về <strong>DuaLeo-X</strong> | Powered by Haravan</p>
         <div className="flex gap-4 mt-2 md:mt-0">
